@@ -45,11 +45,16 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### GitHub Stats 📊
+### Featured Projects 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaykolMedrano&show_icons=false&theme=transparent&include_all_commits=true&count_private=true" alt="Maykol's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykolMedrano&layout=compact&langs_count=8&theme=transparent" alt="Maykol's Top Languages" />
-</p>
+Here are some of the projects I'm most proud of.
+
+<br>
+
+| Project Title | Short Description | Technologies Used |
+|---|---|---|
+| **[Causal Analysis of a Public Policy](https://github.com/MaykolMedrano/your-repo-link)** | An end-to-end project estimating the causal impact of [policy name] on [outcome]. I used Double/Debiased Machine Learning to control for confounding variables. | `Python`, `EconML`, `DoWhy`, `Pandas`, `Scikit-learn` |
+| **[Interactive Data Dashboard](https://github.com/MaykolMedrano/your-repo-link)** | Developed an interactive dashboard to visualize economic indicators for the Cusco region, allowing users to explore trends and patterns. | `Python`, `Plotly Dash`, `Pandas`, `API` |
+| **[Automated Report Generation](https://github.com/MaykolMedrano/your-repo-link)** | An RPA script that automates the collection of fiscal data from various sources and generates a standardized monthly report. | `RPA`, `Selenium`, `Pandas` |
 
 ---
