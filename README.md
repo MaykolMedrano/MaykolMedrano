@@ -34,11 +34,13 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.stata.com" target="_blank"> <img src="https://img.shields.io/badge/Stata-1A5F91?style=flat&logo=stata&logoColor=white" alt="Stata"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> </a>
+  <a href="https://github.com/microsoft/econml" target="_blank"> <img src="https://img.shields.io/badge/EconML-22668D?style=flat" alt="EconML"/> </a>
+  <a href="https://github.com/py-why/dowhy" target="_blank"> <img src="https://img.shields.io/badge/DoWhy-FF8C00?style=flat" alt="DoWhy"/> </a>
   <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-019934?style=flat&logo=langchain&logoColor=white" alt="LangChain"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/RPA-5A2A84?style=flat" alt="RPA"/></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https.img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
 
 ---
