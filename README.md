@@ -45,16 +45,69 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### Featured Projects 🚀
+### Portfolio of Work 🚀
 
-Here are some of the projects I'm most proud of.
+Here's a selection of my work, divided into research, software, and data visualization.
+
+---
+
+#### Investigación y Working Papers 📄
+
+My academic work focuses on applying modern econometric methods to answer questions in public policy and macroeconomics.
 
 <br>
 
-| Project Title | Short Description | Technologies Used |
-|---|---|---|
-| **[Causal Analysis of a Public Policy](https://github.com/MaykolMedrano/your-repo-link)** | An end-to-end project estimating the causal impact of [policy name] on [outcome]. I used Double/Debiased Machine Learning to control for confounding variables. | `Python`, `EconML`, `DoWhy`, `Pandas`, `Scikit-learn` |
-| **[Interactive Data Dashboard](https://github.com/MaykolMedrano/your-repo-link)** | Developed an interactive dashboard to visualize economic indicators for the Cusco region, allowing users to explore trends and patterns. | `Python`, `Plotly Dash`, `Pandas`, `API` |
-| **[Automated Report Generation](https://github.com/MaykolMedrano/your-repo-link)** | An RPA script that automates the collection of fiscal data from various sources and generates a standardized monthly report. | `RPA`, `Selenium`, `Pandas` |
+- **The Causal Effect of Tourism on Informal Labor in Cusco**
+  - *Working Paper, 2025. In preparation for submission to the Journal of Development Economics.*
+  - This study uses a difference-in-differences approach combined with machine learning to estimate the impact of tourism growth on the informal labor market in the Cusco region.
+  - **Links:** `[Ver Paper (PDF)]` `|` `[Ver Código y Datos]` - **[Título de tu Tesis de Maestría o Segundo Paper]**
+  - *Master's Thesis, Pontificia Universidad Católica de Chile, 2026.*
+  - A brief, one-sentence summary of the main research question and finding.
+  - **Links:** `[Ver Tesis (PDF)]` `|` `[Ver Código]`
+
+---
+
+#### Software y Librerías 💻
+
+Tools and scripts I've built to solve specific problems and automate processes.
+
+<br>
+
+##### **Bot de Monitoreo Fiscal y Económico para Perú**
+An RPA script that automates the collection of key economic indicators (inflation, exchange rates, tax revenue) from official Peruvian sources like BCRP and SUNAT, generating a standardized monthly Excel report.
+- **Tecnologías Clave:** `Python`, `Selenium`, `Pandas`, `XlsxWriter`
+- **[Ver el Repositorio →](https://github.com/MaykolMedrano/your-repo-link)** <br>
+
+##### **[Nombre de tu Segundo Proyecto de Código]**
+A short description of another tool or library you have developed. Maybe a Python package to simplify a specific econometric calculation or a tool to consume a specific API.
+- **Tecnologías Clave:** `Python`, `FastAPI`, `SQL`, `etc.`
+- **[Ver el Repositorio →](https://github.com/MaykolMedrano/your-repo-link)**
+
+---
+
+#### Visualizaciones y Dashboards 📊
+
+Communicating data effectively is key. Here are some of my interactive visualization projects.
+
+<br>
+
+<table>
+  <tr>
+    <td width="65%">
+      <strong>Dashboard de Indicadores Económicos de la Región Cusco</strong>
+      <br><br>
+      An interactive web dashboard built to visualize and explore key economic and social indicators for the Cusco region. The application consumes data from a public API and allows users to filter by year and province to uncover local trends.
+      <br><br>
+      <strong>Tecnologías:</strong> <code>Python</code>, <code>Plotly Dash</code>, <code>Pandas</code>
+      <br><br>
+      <a href="#"><strong>Ver Dashboard Interactivo →</strong></a>
+      <br>
+      <a href="#"><strong>Ver el Código →</strong></a>
+    </td>
+    <td width="35%">
+      <a href="#"><img src="https://raw.githubusercontent.com/MaykolMedrano/your-repo/main/dashboard-screenshot.png" alt="Dashboard Screenshot"></a>
+      </td>
+  </tr>
+</table>
 
 ---
