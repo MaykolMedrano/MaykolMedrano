@@ -36,13 +36,3 @@ Here are some of the technologies and tools I work with:
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
 
----
-
-### GitHub Stats 📊
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MaykolMedrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Maykol's GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykolMedrano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Maykol's Top Languages" />
-</p>
-
----
