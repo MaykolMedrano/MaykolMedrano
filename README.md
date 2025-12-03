@@ -16,17 +16,31 @@
 I'm an Economist with a background in public policy and a deep interest in applying quantitative methods to create social impact.
 
 - **Education:** Economist from [Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)](https://www.unsaac.edu.pe/). Pursuing a Master's in Applied Economics at Pontificia Universidad Católica de Chile.
-- **Interests:** Causal Inference (Causal ML), Causal Macroeconomics Methods, Applied Econometrics, and Data Science for the Public Sector.
-- **Currently:** Deepening my knowledge of the Python data science and AI ecosystems.
-- **Open to:** Collaborating on data analysis projects in education, economic development, or fiscal policy.
+- **Interests:** Causal Inference (Causal ML), Economics of Education, Impact Evaluation, and Data Science for the Public Sector.
+- **Open to:** Collaborating on applied research in education, labor markets, or program evaluation.
+
+---
+
+### Open Source
+
+**Stata modules for Peruvian public data:**
+
+| Package | Description |
+|---------|-------------|
+| [`enahodata`](https://github.com/MaykolMedrano/enahodata) | Automated download of ENAHO household survey modules (INEI) |
+| [`usesiaf`](https://github.com/MaykolMedrano/usesiaf) | Import budget execution data from MEF's transparency portal |
+
+**Python:**
+
+| Package | Description |
+|---------|-------------|
+| [`enahodata`](https://pypi.org/project/enahodata) | Python port of the ENAHO data retrieval tool |
+
+<sub>If you use these tools in academic work: [Zenodo DOI](https://doi.org/10.5281/zenodo.15029906)</sub>
 
 ---
 
 ### Tech Stack
-
-
-
-Here are some of the technologies and tools I work with:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> </a>
@@ -40,8 +54,7 @@ Here are some of the technologies and tools I work with:
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/RPA-5A2A84?style=flat" alt="RPA"/></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
 
 ---
-
