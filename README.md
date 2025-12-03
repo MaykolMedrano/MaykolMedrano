@@ -15,7 +15,8 @@
 
 I'm an Economist with a background in public policy and a deep interest in applying quantitative methods to create social impact.
 
-- **Education:** Economist from [Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)](https://www.unsaac.edu.pe/). Pursuing a Master's in Applied Economics at Pontificia Universidad Católica de Chile.
+- **Current role:** Economics Specialist at Peru's Ministry of Education.
+- **Education:** Economist from Universidad Nacional de San Antonio Abad del Cusco. Pursuing a Master's in Applied Economics at [Pontificia Universidad Católica de Chile](https://economia.uc.cl/).
 - **Interests:** Causal Inference (Causal ML), Economics of Education, Impact Evaluation, and Data Science for the Public Sector.
 - **Open to:** Collaborating on applied research in education, labor markets, or program evaluation.
 
@@ -23,18 +24,14 @@ I'm an Economist with a background in public policy and a deep interest in apply
 
 ### Open Source
 
-**Stata modules for Peruvian public data:**
+**Python libraries for economic research data:**
 
-| Package | Description |
-|---------|-------------|
-| [`enahodata`](https://github.com/MaykolMedrano/enahodata) | Automated download of ENAHO household survey modules (INEI) |
-| [`usesiaf`](https://github.com/MaykolMedrano/usesiaf) | Import budget execution data from MEF's transparency portal |
-
-**Python:**
-
-| Package | Description |
-|---------|-------------|
-| [`enahodata`](https://pypi.org/project/enahodata) | Python port of the ENAHO data retrieval tool |
+| Package | Description | |
+|---------|-------------|---|
+| [`enahodata`](https://pypi.org/project/enahodata) | Automated download of Peru's National Household Survey (ENAHO - INEI) | `pip install enahodata` |
+| [`usebcrp`](https://pypi.org/project/usebcrp) | Data retrieval from Peru's Central Bank API (BCRP) | `pip install usebcrp` |
+| `usecasen` | Automated download of Chile's Socioeconomic Characterization Survey (CASEN - MDS) | *forthcoming* |
+| `usebcch` | Data retrieval from Chile's Central Bank Statistical Database API (BCCh) | *forthcoming* |
 
 <sub>If you use these tools in academic work: [Zenodo DOI](https://doi.org/10.5281/zenodo.15029906)</sub>
 
