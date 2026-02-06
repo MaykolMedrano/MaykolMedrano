@@ -28,8 +28,8 @@ I'm an Economist with a background in public policy and a deep interest in apply
 
 | Package | Description | |
 |---------|-------------|---|
-| [`wbgapi360`](https://pypi.org/project/wbgapi360) | High-performance World Bank data retrieval using Parquet and DuckDB | `pip install wbgapi360` |
-| [`mcp-bcrp`](https://pypi.org/project/mcp-bcrp) | MCP Server for Peru's Central Bank (BCRP) data integration with AI Agents | `pip install mcp-bcrp` |
+| [`wbgapi360`](https://pypi.org/project/wbgapi360) | Enterprise-grade Async Python Client for World Bank Data360 API with hybrid MCP support for AI Agents (Claude/OpenAI). | `pip install wbgapi360` |
+| [`mcp-bcrp`](https://pypi.org/project/mcp-bcrp) | MCP Server for Banco Central de Reserva del Perú (BCRP) Statistical API. Access 5,000+ macroeconomic indicators for AI Agents and Analysts. | `pip install mcp-bcrp` |
 | [`enahodata`](https://pypi.org/project/enahodata) | Automated download of Peru's National Household Survey (ENAHO - INEI) | `pip install enahodata` |
 | [`usebcrp`](https://pypi.org/project/usebcrp) | Data retrieval from Peru's Central Bank API (BCRP) | `pip install usebcrp` |
 | `usecasen` | Automated download of Chile's Socioeconomic Characterization Survey (CASEN - MDS) | *forthcoming* |
