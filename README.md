@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maykol Medrano</h1>
-<h3 align="center">Economist | Data Scientist | Public Policy Researcher</h3>
+<h3 align="center">Applied Economist | Policy Data Scientist | Research Software Engineer</h3>
 <p align="center">
   <a href="mailto:mmedrano2@uc.cl">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -13,9 +13,9 @@
 
 ### About Me
 
-I'm an Economist with a background in public policy and a deep interest in applying quantitative methods to create social impact.
+I'm an Applied Economist with a background in public policy and a deep interest in applying quantitative methods to create social impact.
 
-- **Current role:** Economics Specialist at Peru's Ministry of Education.
+- **Last role:** Economics Specialist at Peru's Ministry of Education.
 - **Education:** Economist from Universidad Nacional de San Antonio Abad del Cusco. Pursuing a Master's in Applied Economics at [Pontificia Universidad Católica de Chile](https://economia.uc.cl/).
 - **Interests:** Causal Inference (Causal ML), Economics of Education, Impact Evaluation, and Data Science for the Public Sector.
 - **Open to:** Collaborating on applied research in education, labor markets, or program evaluation.
