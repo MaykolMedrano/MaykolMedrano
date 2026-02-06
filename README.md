@@ -28,6 +28,8 @@ I'm an Economist with a background in public policy and a deep interest in apply
 
 | Package | Description | |
 |---------|-------------|---|
+| [`wbgapi360`](https://pypi.org/project/wbgapi360) | High-performance World Bank data retrieval using Parquet and DuckDB | `pip install wbgapi360` |
+| [`mcp-bcrp`](https://pypi.org/project/mcp-bcrp) | MCP Server for Peru's Central Bank (BCRP) data integration with AI Agents | `pip install mcp-bcrp` |
 | [`enahodata`](https://pypi.org/project/enahodata) | Automated download of Peru's National Household Survey (ENAHO - INEI) | `pip install enahodata` |
 | [`usebcrp`](https://pypi.org/project/usebcrp) | Data retrieval from Peru's Central Bank API (BCRP) | `pip install usebcrp` |
 | `usecasen` | Automated download of Chile's Socioeconomic Characterization Survey (CASEN - MDS) | *forthcoming* |
@@ -47,11 +49,4 @@ I'm an Economist with a background in public policy and a deep interest in apply
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> </a>
   <a href="https://github.com/microsoft/econml" target="_blank"> <img src="https://img.shields.io/badge/EconML-22668D?style=flat" alt="EconML"/> </a>
   <a href="https://github.com/py-why/dowhy" target="_blank"> <img src="https://img.shields.io/badge/DoWhy-FF8C00?style=flat" alt="DoWhy"/> </a>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-019934?style=flat&logo=langchain&logoColor=white" alt="LangChain"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/RPA-5A2A84?style=flat" alt="RPA"/></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
-
----
