@@ -53,14 +53,33 @@ Applied Economist with a background in public policy and a focus on quantitative
 ### Tech Stack
 
 <p align="left">
+  <!-- Languages & Core -->
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> </a>
   <a href="https://www.r-project.org" target="_blank"> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/> </a>
   <a href="https://www.stata.com" target="_blank"> <img src="https://img.shields.io/badge/Stata-1A5F91?style=flat&logo=stata&logoColor=white" alt="Stata"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> </a>
+  <!-- Data Science -->
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> </a>
+  <a href="https://scipy.org/" target="_blank"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy"/> </a>
+  <!-- Causal Inference -->
   <a href="https://github.com/microsoft/econml" target="_blank"> <img src="https://img.shields.io/badge/EconML-22668D?style=flat" alt="EconML"/> </a>
   <a href="https://github.com/py-why/dowhy" target="_blank"> <img src="https://img.shields.io/badge/DoWhy-FF8C00?style=flat" alt="DoWhy"/> </a>
+  <a href="https://github.com/uber/causalml" target="_blank"> <img src="https://img.shields.io/badge/CausalML-005194?style=flat" alt="CausalML"/> </a>
+  <!-- Spatial -->
+  <a href="https://geopandas.org/" target="_blank"> <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=pandas&logoColor=white" alt="GeoPandas"/> </a>
+  <a href="https://qgis.org/" target="_blank"> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" alt="QGIS"/> </a>
+  <!-- Viz -->
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/> </a>
+  <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/> </a>
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white" alt="LaTeX"/> </a>
+  <a href="https://quarto.org/" target="_blank"> <img src="https://img.shields.io/badge/Quarto-4752B2?style=flat&logo=quarto&logoColor=white" alt="Quarto"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> </a>
 </p>
+
 
 > [!IMPORTANT]
 > **Academic Citation (Zenodo):**
