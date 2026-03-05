@@ -24,6 +24,7 @@ Applied Economist with a background in public policy and a focus on quantitative
 ### Open Source & Research Tools
 
 #### AI & Agentic Workflows (MCP Ready)
+
 *Infrastructure for AI Agents and reproducible research pipelines.*
 
 | Project | Description | Status / Installation |
@@ -33,6 +34,7 @@ Applied Economist with a background in public policy and a focus on quantitative
 | **[`mcp-bcrp`](https://pypi.org/project/mcp-bcrp)** | MCP Server for Banco Central de Reserva del Perú (BCRP). | `pip install mcp-bcrp` [![PyPI version](https://img.shields.io/pypi/v/mcp-bcrp?style=flat-square&color=blue)](https://pypi.org/project/mcp-bcrp) |
 
 #### Peruvian Economic Data
+
 *Automated access to official and household statistical sources.*
 
 | Project | Description | Installation |
@@ -41,11 +43,12 @@ Applied Economist with a background in public policy and a focus on quantitative
 | **[`usebcrp`](https://pypi.org/project/usebcrp)** | Data retrieval from Peru's Central Bank (BCRP) API. | `pip install usebcrp` [![PyPI version](https://img.shields.io/pypi/v/usebcrp?style=flat-square&color=blue)](https://pypi.org/project/usebcrp) |
 
 #### Regional & Forthcoming
+
 *Extension to Chile and Southern Cone economic data sources.*
 
-| Project | Description | Status |
+| Project | Description | Installation |
 | :--- | :--- | :--- |
-| `usecasen` | Automated download of Chile's Socioeconomic Survey (CASEN). | In development |
+| **[`usecasen`](https://pypi.org/project/usecasen)** | Automated download of Chile's Socioeconomic Survey (CASEN). | `pip install usecasen` [![PyPI version](https://img.shields.io/pypi/v/usecasen?style=flat-square&color=blue)](https://pypi.org/project/usecasen) |
 | `usebcch` | Data retrieval from Chile's Central Bank Statistical Database. | In development |
 
 ---
@@ -79,7 +82,6 @@ Applied Economist with a background in public policy and a focus on quantitative
   <a href="https://quarto.org/" target="_blank"> <img src="https://img.shields.io/badge/Quarto-4752B2?style=flat&logo=quarto&logoColor=white" alt="Quarto"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> </a>
 </p>
-
 
 > [!IMPORTANT]
 > **Academic Citation (Zenodo):**
