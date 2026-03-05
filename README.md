@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Maykol Medrano</h1>
 <h3 align="center">Applied Economist | Policy Data Scientist | Research Software Engineer</h3>
 <p align="center">
