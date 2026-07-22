@@ -48,6 +48,7 @@ Applied Economist with a background in public policy and a focus on quantitative
 
 | Project | Description | Installation |
 | :--- | :--- | :--- |
+| **[`mcp-sinim`](https://github.com/MaykolMedrano/mcp_sinim)** | Python client and MCP server for Chile's SINIM municipal data. | `pip install mcp-sinim` [![PyPI version](https://img.shields.io/pypi/v/mcp-sinim?style=flat-square&color=blue)](https://pypi.org/project/mcp-sinim/) |
 | **[`usecasen`](https://pypi.org/project/usecasen)** | Automated download of Chile's Socioeconomic Survey (CASEN). | `pip install usecasen` [![PyPI version](https://img.shields.io/pypi/v/usecasen?style=flat-square&color=blue)](https://pypi.org/project/usecasen) |
 | `usebcch` | Data retrieval from Chile's Central Bank Statistical Database. | In development |
 
