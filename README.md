@@ -30,8 +30,8 @@ Applied Economist with a background in public policy and a focus on quantitative
 | Project | Description | Status / Installation |
 | :--- | :--- | :--- |
 | **[`projectinit-ai`](https://github.com/MaykolMedrano/projectinit-ai)** | Next-Gen Economics Research Boilerplate (DIME + AI Agents). | ![GitHub stars](https://img.shields.io/github/stars/MaykolMedrano/projectinit-ai?style=flat-square) |
-| **[`wbgapi360`](https://pypi.org/project/wbgapi360)** | World Bank Data360 Python Client with hybrid MCP support. | `pip install wbgapi360` [![PyPI version](https://img.shields.io/pypi/v/wbgapi360?style=flat-square&color=blue)](https://pypi.org/project/wbgapi360) |
-| **[`mcp-bcrp`](https://pypi.org/project/mcp-bcrp)** | MCP Server for Banco Central de Reserva del Perú (BCRP). | `pip install mcp-bcrp` [![PyPI version](https://img.shields.io/pypi/v/mcp-bcrp?style=flat-square&color=blue)](https://pypi.org/project/mcp-bcrp) |
+| **[`wbgapi360`](https://github.com/MaykolMedrano/mcp_wbgapi360)** | World Bank Data360 Python Client with hybrid MCP support. | `pip install wbgapi360` [![PyPI version](https://img.shields.io/pypi/v/wbgapi360?style=flat-square&color=blue)](https://pypi.org/project/wbgapi360) |
+| **[`mcp-bcrp`](https://github.com/MaykolMedrano/mcp_bcrp)** | MCP Server for Banco Central de Reserva del Perú (BCRP). | `pip install mcp-bcrp` [![PyPI version](https://img.shields.io/pypi/v/mcp-bcrp?style=flat-square&color=blue)](https://pypi.org/project/mcp-bcrp) |
 
 #### Peruvian Economic Data
 
@@ -39,8 +39,8 @@ Applied Economist with a background in public policy and a focus on quantitative
 
 | Project | Description | Installation |
 | :--- | :--- | :--- |
-| **[`enahodata`](https://pypi.org/project/enahodata)** | Automated download of Peru's National Household Survey (ENAHO). | `pip install enahodata` [![PyPI version](https://img.shields.io/pypi/v/enahodata?style=flat-square&color=blue)](https://pypi.org/project/enahodata) |
-| **[`usebcrp`](https://pypi.org/project/usebcrp)** | Data retrieval from Peru's Central Bank (BCRP) API. | `pip install usebcrp` [![PyPI version](https://img.shields.io/pypi/v/usebcrp?style=flat-square&color=blue)](https://pypi.org/project/usebcrp) |
+| **[`enahodata`](https://github.com/MaykolMedrano/enahodata)** | Automated download of Peru's National Household Survey (ENAHO). | `pip install enahodata` [![PyPI version](https://img.shields.io/pypi/v/enahodata?style=flat-square&color=blue)](https://pypi.org/project/enahodata) |
+| **[`usebcrp`](https://github.com/MaykolMedrano/usebcrp)** | Data retrieval from Peru's Central Bank (BCRP) API. | `pip install usebcrp` [![PyPI version](https://img.shields.io/pypi/v/usebcrp?style=flat-square&color=blue)](https://pypi.org/project/usebcrp) |
 
 #### Regional & Forthcoming
 
@@ -49,7 +49,7 @@ Applied Economist with a background in public policy and a focus on quantitative
 | Project | Description | Installation |
 | :--- | :--- | :--- |
 | **[`mcp-sinim`](https://github.com/MaykolMedrano/mcp_sinim)** | Python client and MCP server for Chile's SINIM municipal data. | `pip install mcp-sinim` [![PyPI version](https://img.shields.io/pypi/v/mcp-sinim?style=flat-square&color=blue)](https://pypi.org/project/mcp-sinim/) |
-| **[`usecasen`](https://pypi.org/project/usecasen)** | Automated download of Chile's Socioeconomic Survey (CASEN). | `pip install usecasen` [![PyPI version](https://img.shields.io/pypi/v/usecasen?style=flat-square&color=blue)](https://pypi.org/project/usecasen) |
+| **[`usecasen`](https://github.com/MaykolMedrano/usecasen)** | Automated download of Chile's Socioeconomic Survey (CASEN). | `pip install usecasen` [![PyPI version](https://img.shields.io/pypi/v/usecasen?style=flat-square&color=blue)](https://pypi.org/project/usecasen) |
 | `usebcch` | Data retrieval from Chile's Central Bank Statistical Database. | In development |
 
 ---
