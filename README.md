@@ -44,7 +44,7 @@ Tools for accessing public data, building reproducible research workflows, and c
 | **[`enahodata`](https://github.com/MaykolMedrano/enahodata_py)** | Python package for automated access to Peru's National Household Survey (ENAHO). | `pip install enahodata` [![PyPI version](https://img.shields.io/pypi/v/enahodata?style=flat-square)](https://pypi.org/project/enahodata) |
 | **[`usebcrp`](https://github.com/MaykolMedrano/usebcrp)** | Programmatic access to statistical series from Peru's Central Reserve Bank. | `pip install usebcrp` [![PyPI version](https://img.shields.io/pypi/v/usebcrp?style=flat-square)](https://pypi.org/project/usebcrp) |
 | **[`usecasen`](https://github.com/MaykolMedrano/usecasen)** | Automated download and organization of Chile's CASEN household survey. | `pip install usecasen` [![PyPI version](https://img.shields.io/pypi/v/usecasen?style=flat-square)](https://pypi.org/project/usecasen) |
-| **`usebcch`** | Programmatic access to the Central Bank of Chile Statistical Database. | In development |
+| **[`usebcch`](https://github.com/MaykolMedrano/usebcch)** | Native Stata interface for the Central Bank of Chile Statistical Database (BDE). | Stata |
 
 ---
 
